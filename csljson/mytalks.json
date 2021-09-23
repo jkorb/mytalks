@@ -1,0 +1,888 @@
+[
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      },
+      {
+        "family": "Picenni",
+        "given": "Simone"
+      }
+    ],
+    "id": "MUC21",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          5,
+          17
+        ]
+      ]
+    },
+    "note": "Seminar on Mathematical Philosophy",
+    "publisher-place": "LMU Munich",
+    "title": "The algebra of exact entailment",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      }
+    ],
+    "id": "LON21",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          3,
+          18
+        ]
+      ]
+    },
+    "note": "London Group of Formal Philosophy",
+    "publisher-place": "University of London",
+    "title": "Granularity theory",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      }
+    ],
+    "id": "LOU20",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          25
+        ]
+      ]
+    },
+    "note": "Seminar on Explanatory Inference",
+    "publisher-place": "University of Louvain-la-Neuve",
+    "title": "Studying exact truthmaker semantics via the logic of exact entailment",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      },
+      {
+        "family": "Anglberger",
+        "given": "Albert"
+      }
+    ],
+    "id": "LIRA18",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          11,
+          15
+        ]
+      ]
+    },
+    "note": "LIRa",
+    "publisher-place": "ILLC, University of Amsterdam",
+    "title": "The logic of free choice permission",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      },
+      {
+        "family": "Anglberger",
+        "given": "Albert"
+      }
+    ],
+    "id": "OZSW18",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          11
+        ]
+      ]
+    },
+    "note": "OSZW",
+    "publisher-place": "University of Twente",
+    "title": "The logic of free choice permission",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      }
+    ],
+    "id": "GAP18-1",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          9,
+          19
+        ]
+      ]
+    },
+    "note": "GAP.10",
+    "publisher-place": "University of Cologne",
+    "title": "Tableaux for the logic of exact entailment",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      },
+      {
+        "family": "Anglberger",
+        "given": "Albert"
+      }
+    ],
+    "id": "GAP18-2",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          9,
+          19
+        ]
+      ]
+    },
+    "note": "GAP.10",
+    "publisher-place": "University of Cologne",
+    "title": "The logic of free choice permission",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      },
+      {
+        "dropping-particle": "van",
+        "family": "Lith",
+        "given": "Janneke"
+      }
+    ],
+    "id": "GAP18-3",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          9,
+          20
+        ]
+      ]
+    },
+    "note": "GAP.10",
+    "publisher-place": "University of Cologne",
+    "title": "Elusive knowledge hyperintensionalized",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      }
+    ],
+    "id": "AMS18",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          3,
+          28
+        ]
+      ]
+    },
+    "note": "Amsterdam Metaphysics Seminar",
+    "publisher-place": "University of Amsterdam",
+    "title": "Tableaux for exact entailment",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      }
+    ],
+    "id": "GLAS18",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          3,
+          15
+        ]
+      ]
+    },
+    "note": "The Logic and Metaphysics of Ground",
+    "publisher-place": "University of Glasgow",
+    "title": "Tableaux for exact entailment",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      },
+      {
+        "family": "Anglberger",
+        "given": "Albert"
+      }
+    ],
+    "id": "GHENT17-1",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          15
+        ]
+      ]
+    },
+    "note": "Hyperintensional Logics and Truthmaker Semantics",
+    "publisher-place": "University of Ghent",
+    "title": "Truthmakers and normative conflicts",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      }
+    ],
+    "id": "GHENT17-2",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          12,
+          15
+        ]
+      ]
+    },
+    "note": "Hyperintensional Logics and Truthmaker Semantics",
+    "publisher-place": "University of Ghent",
+    "title": "Tableaux for the logic of exact entailment",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      },
+      {
+        "family": "Lisciandra",
+        "given": "Chiara"
+      }
+    ],
+    "id": "UU17",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          21
+        ]
+      ]
+    },
+    "note": "Theoretical Philosophy Colloquium",
+    "publisher-place": "Utrecht University",
+    "title": "Ex pluribus unum: How many models support one hypothesis",
+    "title-short": "Ex pluribus unum",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      }
+    ],
+    "id": "OZSW17",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          11,
+          10
+        ]
+      ]
+    },
+    "note": "OZSW",
+    "publisher-place": "Utrecht University",
+    "title": "Truth-maker bayesianism. Theory and applications",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      },
+      {
+        "family": "Lisciandra",
+        "given": "Chiara"
+      }
+    ],
+    "id": "EPSA17",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          9,
+          9
+        ]
+      ]
+    },
+    "note": "EPSA",
+    "publisher-place": "University of Exeter",
+    "title": "Ex pluribus unum: How many models support one hypothesis",
+    "title-short": "Ex pluribus unum",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      },
+      {
+        "family": "Schiemer",
+        "given": "Georg"
+      }
+    ],
+    "id": "SILFS17",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          6,
+          21
+        ]
+      ]
+    },
+    "note": "SILFS",
+    "publisher-place": "University of Bologna",
+    "title": "Structural and logical properties",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      }
+    ],
+    "id": "MCMP17",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          5,
+          11
+        ]
+      ]
+    },
+    "note": "Mathematical Philosophy Colloquium",
+    "publisher-place": "LMU Munich",
+    "title": "Truth-maker bayesianism",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      },
+      {
+        "family": "Anglberger",
+        "given": "Albert"
+      },
+      {
+        "family": "Faroldi",
+        "given": "Federico"
+      }
+    ],
+    "id": "DEON16",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          7,
+          18
+        ]
+      ]
+    },
+    "note": "Deon",
+    "publisher-place": "University of Bayreuth",
+    "title": "An exact truthmaker semantics for explicit permission and obligation",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      },
+      {
+        "family": "Anglberger",
+        "given": "Albert"
+      },
+      {
+        "family": "Faroldi",
+        "given": "Federico"
+      }
+    ],
+    "id": "TILLY16",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          4,
+          4
+        ]
+      ]
+    },
+    "note": "Colloquium",
+    "publisher-place": "University of Tilburg",
+    "title": "An exact truthmaker semantics for explicit permission and obligation",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      }
+    ],
+    "id": "GRO16",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          3,
+          31
+        ]
+      ]
+    },
+    "note": "Grolog",
+    "publisher-place": "University of Groningen",
+    "title": "Exact truthmaker semantics for propositional modal logic(s)",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      }
+    ],
+    "id": "HH16",
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          1,
+          22
+        ]
+      ]
+    },
+    "note": "The Metaphysical ’Because’ and the Foundations of Mathematics",
+    "publisher-place": "University of Hamburg",
+    "title": "Truthmakers and mathematics",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      },
+      {
+        "family": "Anglberger",
+        "given": "Albert"
+      }
+    ],
+    "id": "BAY15",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          12,
+          15
+        ]
+      ]
+    },
+    "note": "Colloquium",
+    "title": "Hyperintensional deontic logics",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      },
+      {
+        "family": "Anglberger",
+        "given": "Albert"
+      }
+    ],
+    "id": "VEN15",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          11,
+          26
+        ]
+      ]
+    },
+    "note": "Deontic Logic and Ethics",
+    "publisher-place": "Venice International University",
+    "title": "Hyperintensional deontic logics",
+    "type": ""
+  },
+  {
+    "id": "OS15",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          9,
+          18
+        ]
+      ]
+    },
+    "note": "Logical and Metaphysical Perspectives on Grounding",
+    "publisher-place": "University of Osnabrück",
+    "title": "Toward axiomatic theories of ground",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      }
+    ],
+    "id": "GAP15",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          9,
+          15
+        ]
+      ]
+    },
+    "note": "GAP.9",
+    "publisher-place": "University of Osnabrück",
+    "title": "How to distinguish necessarility coextensive but distinct properties",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      }
+    ],
+    "id": "SOPHIA15",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          9,
+          4
+        ]
+      ]
+    },
+    "note": "SoPhiA",
+    "publisher-place": "University of Salzburg",
+    "title": "Yet another puzzle of ground",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      },
+      {
+        "family": "Schiemer",
+        "given": "Georg"
+      }
+    ],
+    "id": "CLMPS15",
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          8,
+          3
+        ]
+      ]
+    },
+    "note": "CLMPS",
+    "publisher-place": "University of Helsinki",
+    "title": "What are structural properties",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      },
+      {
+        "family": "Casini",
+        "given": "Lorenzo"
+      }
+    ],
+    "id": "MUC14",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          10,
+          23
+        ]
+      ]
+    },
+    "note": "Explanation Beyond Causation",
+    "publisher-place": "LMU Munich",
+    "title": "Mathematical explanations and nomological ground",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      }
+    ],
+    "id": "HH14",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          9,
+          9
+        ]
+      ]
+    },
+    "note": "Phloxshop VI — Logics and (their) Grounds",
+    "publisher-place": "University of Hamburg",
+    "title": "On the semantics of (iterated) ground",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      },
+      {
+        "family": "Schiemer",
+        "given": "Georg"
+      }
+    ],
+    "id": "VIE14",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          8,
+          7
+        ]
+      ]
+    },
+    "note": "Symposium on the Foundations of Mathematics",
+    "publisher-place": "Kurt Gödel Research Center",
+    "title": "What are structural properties",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      },
+      {
+        "family": "Schiemer",
+        "given": "Georg"
+      }
+    ],
+    "id": "MI14",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          5,
+          29
+        ]
+      ]
+    },
+    "note": "Philosophy of Mathematics. Objectivity, Cognition and Proof",
+    "publisher-place": "Università Vita-Salute San Raffaele, Milan",
+    "title": "What are structural properties",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      }
+    ],
+    "id": "OS13",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          8,
+          23
+        ]
+      ]
+    },
+    "note": "Groundedness in Semantics and Beyond",
+    "publisher-place": "University of Oslo",
+    "title": "Proof theory for the propositional logic of ground",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      }
+    ],
+    "id": "SOPHIA13",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          9,
+          12
+        ]
+      ]
+    },
+    "note": "SoPhiA",
+    "publisher-place": "University of Salzburg",
+    "title": "Mathematical metaphysics",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      }
+    ],
+    "id": "MUC13",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          7,
+          12
+        ]
+      ]
+    },
+    "note": "1st MCMP - Buenos Aires Workshop",
+    "publisher-place": "LMU Munich",
+    "title": "Sequent calculus for the logic of ground",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      }
+    ],
+    "id": "GAP12",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          9,
+          19
+        ]
+      ]
+    },
+    "note": "GAP.8",
+    "publisher-place": "University of Constanz",
+    "title": "Essence and identity. A note on essential properties and criteria of identity",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      }
+    ],
+    "id": "BRI10",
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          7,
+          24
+        ]
+      ]
+    },
+    "note": "Structure and Identity Conference",
+    "publisher-place": "University of Bristol",
+    "title": "Ante-rem structuralism and the ontological argument",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Korbmacher",
+        "given": "Johannes"
+      }
+    ],
+    "id": "SIE09",
+    "issued": {
+      "date-parts": [
+        [
+          2009,
+          12,
+          1
+        ]
+      ]
+    },
+    "note": "Interdisziplinärer Arbeitskreis Logik, Argumentation, Wissenschaftstheorie",
+    "publisher-place": "University of Siegen",
+    "title": "Das benacerraf-dilemma in der philosophie der mathematik",
+    "type": ""
+  }
+]
