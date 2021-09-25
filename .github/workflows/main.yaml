@@ -1,0 +1,35 @@
+name : Main
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: recursive
+      - uses: r-lib/actions/setup-pandoc@v1
+        with:
+          pandoc-version: '2.14.0.2'
+      - run: sudo apt-get update && sudo apt-get install texlive latexmk texlive-fonts-extra texlive-lang-european texlive-science
+      - run: make list
+      - uses: actions/github-script@v4
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            const { owner, repo } = context.repo
+            const { data: { id } } = await github.repos.getLatestRelease({ owner, repo })
+            await github.repos.deleteRelease({ owner, repo, release_id: id })
+      - name: Create new release
+        uses: softprops/action-gh-release@v1
+        with:
+          body: "This is a compiled list of my academic publications as a PDF."
+          name: List of publications
+          tag_name: release
+          files: |
+            ./mypubs.pdf
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
