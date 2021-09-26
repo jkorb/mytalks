@@ -1,5 +1,5 @@
 TARGET = mytalks.pdf
-SRC_DIR = list_src
+SRC_DIR = pdf_src
 MD = $(SRC_DIR)/mytalks_src.md
 TEMPLATE = $(SRC_DIR)/template.tex
 CSL = $(SRC_DIR)/mytalks.csl
