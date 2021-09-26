@@ -14,4 +14,4 @@ It's mainly for my personal use, but in case you're interested have a look.
 
 Bibliographies are not copyrightable (luckily).
 
-The rest, of the project is under the MIT license.
+The rest, is under the MIT license.

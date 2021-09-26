@@ -30,6 +30,6 @@ jobs:
           name: List of presentations
           tag_name: release
           files: |
-            ./talks.pdf
+            ./mytalks.pdf
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
