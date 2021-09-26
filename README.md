@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-greenw.svg)](https://opensource.org/licenses/MIT)
 
 This repository hosts a bibliographical database of my academic talks in different formats (`.bib`, `.bibtex`, `.json`, `.yaml`).
-You can find a compiled list of publications in PDF [here](https://github.com/jkorb/mytalks/releases/download/release/mytalks.pdf).
+You can find a compiled list of my presentations in PDF [here](https://github.com/jkorb/mytalks/releases/download/release/mytalks.pdf).
 
 ## Syncing
 

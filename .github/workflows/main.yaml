@@ -26,10 +26,10 @@ jobs:
       - name: Create new release
         uses: softprops/action-gh-release@v1
         with:
-          body: "This is a compiled list of my academic publications as a PDF."
-          name: List of publications
+          body: "A compiled list of my presentations in PDF."
+          name: List of presentations
           tag_name: release
           files: |
-            ./mypubs.pdf
+            ./talks.pdf
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
