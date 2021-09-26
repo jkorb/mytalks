@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0">
+  <info>
+    <title>Minimal citation style for my talks</title>
+    <id>Test</id>
+    <author>
+      <name>Johannes Korbmacher</name>
+      <email>jkorbmacher@gmail.com</email>
+    </author>
+    <rights license="https://creativecommons.org/publicdomain/zero/1.0/">This work has been dedicated into the public domain by the author</rights>
+  </info>
+  <citation>
+  </citation>
+  <style>
+  </style>
+  <macro name="date">
+    <date variable="issued" form="numeric">
+      <date-part name="day" form="numeric" suffix="/" />
+      <date-part name="month" form="numeric" suffix="/" />
+      <date-part name="year"/>
+    </date>
+  </macro>
+  <macro name="title">
+    <text variable="title" text-case="title" />
+  </macro>
+  <macro name="info">
+    <group>
+      <text variable="note" font-style="italic" suffix=", " />
+      <text variable="publisher-place" suffix=" " />
+    </group>
+  </macro>
+  <macro name="coauthor">
+    <choose>
+      <if variable="author">
+        <names variable="author" delimiter=". ">
+          <label form="verb" text-case="capitalize-first" suffix=" "/>
+          <name and="text" delimiter=", "/>
+        </names>
+      </if>
+    </choose>
+  </macro>
+  <bibliography second-field-align="flush" entry-spacing="1">
+    <sort>
+      <key variable="issued" sort="descending"/>
+      <key macro="title"/>
+    </sort>
+    <layout suffix=".">
+      <text variable="citation-number" suffix=". "/>
+      <group suffix=". " >
+        <text macro="title"/>
+        <text macro="coauthor" prefix=" (w/ " suffix=")"/>
+      </group>
+      <group prefix="At: " suffix="." >
+        <text macro="info" />
+        <text macro="date" prefix="(" suffix=")" />
+      </group>
+    </layout>
+  </bibliography>
+</style>

@@ -1,6 +1,9 @@
 # mytalks
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-greenw.svg)](https://opensource.org/licenses/MIT)
+
 This repository hosts a bibliographical database of my academic talks in different formats (`.bib`, `.bibtex`, `.json`, `.yaml`).
+You can find a compiled list of my presentations in PDF [here](https://github.com/jkorb/mytalks/releases/download/release/mytalks.pdf).
 
 ## Syncing
 
@@ -9,15 +12,6 @@ It's mainly for my personal use, but in case you're interested have a look.
 
 ## License
 
-<p>
-<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
-<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
-     style="border-style: none;" alt="Public Domain Mark" />
-</a>
-<br />
-This work is free of known copyright restrictions.
-</p>
-
 Bibliographies are not copyrightable (luckily).
 
-The `sync.sh` I release into the public domain via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+The rest, of the project is under the MIT license.

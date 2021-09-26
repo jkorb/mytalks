@@ -1,0 +1,60 @@
+\documentclass[12pt,a4paper]{article}
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[margin=1in]{geometry}
+\usepackage[colorlinks=false,urlcolor=blue,citecolor=black,linkcolor=black]{hyperref}
+\hypersetup{%
+  pdfauthor = {Johannes Korbmacher (jkorbmacher@gmail.com)},
+  pdftitle = {Johannes Korbmacher. List of Publications},
+  pdfsubject = {List of Publications},
+  pdfpagemode = UseNone
+}
+\renewcommand*{\thefootnote}{%
+  \fnsymbol{footnote}}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lhead{%
+  List of presentations: Johannes Korbmacher}
+\rhead{%
+  {Page \thepage\ of {\pageref{last}}}}
+\cfoot{%
+  \tiny \emph{Last updated: \today} ---
+  \url{https://jkorbmacher.org}
+}
+\renewcommand{\headrulewidth}{0pt}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{parskip}
+\frenchspacing
+
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newlength{\cslentryspacingunit} % times entry-spacing
+\setlength{\cslentryspacingunit}{\parskip}
+\newenvironment{CSLReferences}[2] % #1 hanging-ident, #2 entry spacing
+ {% don't indent paragraphs
+  \setlength{\parindent}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1
+  \let\oldpar\par
+  \def\par{\hangindent=\cslhangindent\oldpar}
+  \fi
+  % set entry spacing
+  \setlength{\parskip}{#2\cslentryspacingunit}
+ }%
+ {}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{#1\hfill\break}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{#1}\break}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+\begin{document}
+\thispagestyle{empty}
+$body$
+\label{last}
+\end{document}

@@ -2,8 +2,6 @@
 nocite: "[@*]"
 references:
 - author:
-  - family: Korbmacher
-    given: Johannes
   - family: Picenni
     given: Simone
   id: MUC21
@@ -11,26 +9,18 @@ references:
   note: Seminar on Mathematical Philosophy
   publisher-place: LMU Munich
   title: The algebra of exact entailment
-- author:
-  - family: Korbmacher
-    given: Johannes
-  id: LON21
+- id: LON21
   issued: 2021-03-18
   note: London Group of Formal Philosophy
   publisher-place: University of London
   title: Granularity theory
-- author:
-  - family: Korbmacher
-    given: Johannes
-  id: LOU20
+- id: LOU20
   issued: 2020-11-25
   note: Seminar on Explanatory Inference
   publisher-place: University of Louvain-la-Neuve
   title: Studying exact truthmaker semantics via the logic of exact
     entailment
 - author:
-  - family: Korbmacher
-    given: Johannes
   - family: Anglberger
     given: Albert
   id: LIRA18
@@ -39,8 +29,6 @@ references:
   publisher-place: ILLC, University of Amsterdam
   title: The logic of free choice permission
 - author:
-  - family: Korbmacher
-    given: Johannes
   - family: Anglberger
     given: Albert
   id: OZSW18
@@ -48,17 +36,12 @@ references:
   note: OSZW
   publisher-place: University of Twente
   title: The logic of free choice permission
-- author:
-  - family: Korbmacher
-    given: Johannes
-  id: GAP18-1
+- id: GAP18-1
   issued: 2018-09-19
   note: GAP.10
   publisher-place: University of Cologne
   title: Tableaux for the logic of exact entailment
 - author:
-  - family: Korbmacher
-    given: Johannes
   - family: Anglberger
     given: Albert
   id: GAP18-2
@@ -67,8 +50,6 @@ references:
   publisher-place: University of Cologne
   title: The logic of free choice permission
 - author:
-  - family: Korbmacher
-    given: Johannes
   - family: Lith
     given: Janneke van
   id: GAP18-3
@@ -76,25 +57,17 @@ references:
   note: GAP.10
   publisher-place: University of Cologne
   title: Elusive knowledge hyperintensionalized
-- author:
-  - family: Korbmacher
-    given: Johannes
-  id: AMS18
+- id: AMS18
   issued: 2018-03-28
   note: Amsterdam Metaphysics Seminar
   publisher-place: University of Amsterdam
   title: Tableaux for exact entailment
-- author:
-  - family: Korbmacher
-    given: Johannes
-  id: GLAS18
+- id: GLAS18
   issued: 2018-03-15
   note: The Logic and Metaphysics of Ground
   publisher-place: University of Glasgow
   title: Tableaux for exact entailment
 - author:
-  - family: Korbmacher
-    given: Johannes
   - family: Anglberger
     given: Albert
   id: GHENT17-1
@@ -102,17 +75,12 @@ references:
   note: Hyperintensional Logics and Truthmaker Semantics
   publisher-place: University of Ghent
   title: Truthmakers and normative conflicts
-- author:
-  - family: Korbmacher
-    given: Johannes
-  id: GHENT17-2
+- id: GHENT17-2
   issued: 2017-12-15
   note: Hyperintensional Logics and Truthmaker Semantics
   publisher-place: University of Ghent
   title: Tableaux for the logic of exact entailment
 - author:
-  - family: Korbmacher
-    given: Johannes
   - family: Lisciandra
     given: Chiara
   id: UU17
@@ -121,17 +89,12 @@ references:
   publisher-place: Utrecht University
   title: "Ex pluribus unum: How many models support one hypothesis"
   title-short: Ex pluribus unum
-- author:
-  - family: Korbmacher
-    given: Johannes
-  id: OZSW17
+- id: OZSW17
   issued: 2017-11-10
   note: OZSW
   publisher-place: Utrecht University
   title: Truth-maker bayesianism. Theory and applications
 - author:
-  - family: Korbmacher
-    given: Johannes
   - family: Lisciandra
     given: Chiara
   id: EPSA17
@@ -141,8 +104,6 @@ references:
   title: "Ex pluribus unum: How many models support one hypothesis"
   title-short: Ex pluribus unum
 - author:
-  - family: Korbmacher
-    given: Johannes
   - family: Schiemer
     given: Georg
   id: SILFS17
@@ -150,17 +111,12 @@ references:
   note: SILFS
   publisher-place: University of Bologna
   title: Structural and logical properties
-- author:
-  - family: Korbmacher
-    given: Johannes
-  id: MCMP17
+- id: MCMP17
   issued: 2017-05-11
   note: Mathematical Philosophy Colloquium
   publisher-place: LMU Munich
   title: Truth-maker bayesianism
 - author:
-  - family: Korbmacher
-    given: Johannes
   - family: Anglberger
     given: Albert
   - family: Faroldi
@@ -172,8 +128,6 @@ references:
   title: An exact truthmaker semantics for explicit permission and
     obligation
 - author:
-  - family: Korbmacher
-    given: Johannes
   - family: Anglberger
     given: Albert
   - family: Faroldi
@@ -184,25 +138,17 @@ references:
   publisher-place: University of Tilburg
   title: An exact truthmaker semantics for explicit permission and
     obligation
-- author:
-  - family: Korbmacher
-    given: Johannes
-  id: GRO16
+- id: GRO16
   issued: 2016-03-31
   note: Grolog
   publisher-place: University of Groningen
   title: Exact truthmaker semantics for propositional modal logic(s)
-- author:
-  - family: Korbmacher
-    given: Johannes
-  id: HH16
+- id: HH16
   issued: 2016-01-22
   note: The Metaphysical 'Because' and the Foundations of Mathematics
   publisher-place: University of Hamburg
   title: Truthmakers and mathematics
 - author:
-  - family: Korbmacher
-    given: Johannes
   - family: Anglberger
     given: Albert
   id: BAY15
@@ -210,8 +156,6 @@ references:
   note: Colloquium
   title: Hyperintensional deontic logics
 - author:
-  - family: Korbmacher
-    given: Johannes
   - family: Anglberger
     given: Albert
   id: VEN15
@@ -224,26 +168,18 @@ references:
   note: Logical and Metaphysical Perspectives on Grounding
   publisher-place: University of Osnabrück
   title: Toward axiomatic theories of ground
-- author:
-  - family: Korbmacher
-    given: Johannes
-  id: GAP15
+- id: GAP15
   issued: 2015-09-15
   note: GAP.9
   publisher-place: University of Osnabrück
   title: How to distinguish necessarility coextensive but distinct
     properties
-- author:
-  - family: Korbmacher
-    given: Johannes
-  id: SOPHIA15
+- id: SOPHIA15
   issued: 2015-09-04
   note: SoPhiA
   publisher-place: University of Salzburg
   title: Yet another puzzle of ground
 - author:
-  - family: Korbmacher
-    given: Johannes
   - family: Schiemer
     given: Georg
   id: CLMPS15
@@ -252,8 +188,6 @@ references:
   publisher-place: University of Helsinki
   title: What are structural properties
 - author:
-  - family: Korbmacher
-    given: Johannes
   - family: Casini
     given: Lorenzo
   id: MUC14
@@ -261,17 +195,12 @@ references:
   note: Explanation Beyond Causation
   publisher-place: LMU Munich
   title: Mathematical explanations and nomological ground
-- author:
-  - family: Korbmacher
-    given: Johannes
-  id: HH14
+- id: HH14
   issued: 2014-09-09
   note: Phloxshop VI --- Logics and (their) Grounds
   publisher-place: University of Hamburg
   title: On the semantics of (iterated) ground
 - author:
-  - family: Korbmacher
-    given: Johannes
   - family: Schiemer
     given: Georg
   id: VIE14
@@ -280,8 +209,6 @@ references:
   publisher-place: Kurt Gödel Research Center
   title: What are structural properties
 - author:
-  - family: Korbmacher
-    given: Johannes
   - family: Schiemer
     given: Georg
   id: MI14
@@ -289,51 +216,33 @@ references:
   note: Philosophy of Mathematics. Objectivity, Cognition and Proof
   publisher-place: Università Vita-Salute San Raffaele, Milan
   title: What are structural properties
-- author:
-  - family: Korbmacher
-    given: Johannes
-  id: OS13
+- id: OS13
   issued: 2013-08-23
   note: Groundedness in Semantics and Beyond
   publisher-place: University of Oslo
   title: Proof theory for the propositional logic of ground
-- author:
-  - family: Korbmacher
-    given: Johannes
-  id: SOPHIA13
+- id: SOPHIA13
   issued: 2013-09-12
   note: SoPhiA
   publisher-place: University of Salzburg
   title: Mathematical metaphysics
-- author:
-  - family: Korbmacher
-    given: Johannes
-  id: MUC13
+- id: MUC13
   issued: 2013-07-12
   note: 1st MCMP - Buenos Aires Workshop
   publisher-place: LMU Munich
   title: Sequent calculus for the logic of ground
-- author:
-  - family: Korbmacher
-    given: Johannes
-  id: GAP12
+- id: GAP12
   issued: 2012-09-19
   note: GAP.8
   publisher-place: University of Constanz
   title: Essence and identity. A note on essential properties and
     criteria of identity
-- author:
-  - family: Korbmacher
-    given: Johannes
-  id: BRI10
+- id: BRI10
   issued: 2010-07-24
   note: Structure and Identity Conference
   publisher-place: University of Bristol
   title: Ante-rem structuralism and the ontological argument
-- author:
-  - family: Korbmacher
-    given: Johannes
-  id: SIE09
+- id: SIE09
   issued: 2009-12-01
   note: Interdisziplinärer Arbeitskreis Logik, Argumentation,
     Wissenschaftstheorie
