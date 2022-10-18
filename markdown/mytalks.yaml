@@ -2,6 +2,14 @@
 nocite: "[@*]"
 references:
 - author:
+  - family: Rosella
+    given: Giuliano
+  id: GEN22
+  issued: 2022-06-19
+  note: "Truthmaker Semantics: What, What for and How?"
+  publisher-place: University of Geneva
+  title: Exact truthmaker semantics for modal logic
+- author:
   - family: Picenni
     given: Simone
   id: MUC21
