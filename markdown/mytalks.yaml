@@ -1,6 +1,24 @@
 ---
 nocite: "[@*]"
 references:
+- id: UU22
+  issued: 2022-09-21
+  note: Proofs and Formalization
+  publisher: Utrecht University
+  title: Hyperintensional proof theory
+- id: BER22
+  issued: 2022-09-16
+  note: Hyperintensional Formal Epistemology
+  publisher-place: Humbold-University Berlin
+  title: Parts and probability
+- author:
+  - family: Picenni
+    given: Simone
+  id: BRIS22
+  issued: 2022-08-23
+  note: Truthmaking, Semantical Grounding, and Paradoxes
+  publisher-place: University of Bristol
+  title: The algebra of exact entailment
 - author:
   - family: Rosella
     given: Giuliano

@@ -1,5 +1,59 @@
 [
   {
+    "id": "UU22",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          21
+        ]
+      ]
+    },
+    "note": "Proofs and Formalization",
+    "publisher": "Utrecht University",
+    "title": "Hyperintensional proof theory",
+    "type": ""
+  },
+  {
+    "id": "BER22",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          9,
+          16
+        ]
+      ]
+    },
+    "note": "Hyperintensional Formal Epistemology",
+    "publisher-place": "Humbold-University Berlin",
+    "title": "Parts and probability",
+    "type": ""
+  },
+  {
+    "author": [
+      {
+        "family": "Picenni",
+        "given": "Simone"
+      }
+    ],
+    "id": "BRIS22",
+    "issued": {
+      "date-parts": [
+        [
+          2022,
+          8,
+          23
+        ]
+      ]
+    },
+    "note": "Truthmaking, Semantical Grounding, and Paradoxes",
+    "publisher-place": "University of Bristol",
+    "title": "The algebra of exact entailment",
+    "type": ""
+  },
+  {
     "author": [
       {
         "family": "Rosella",
